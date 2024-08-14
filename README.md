@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm  PradeepRavula</h1>
 - 🌱 I’m currently learning **FullStack**
 
 - 📫 How to reach me **ravulapradeep8@gmail.com**
